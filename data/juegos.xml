@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juegos>
+    <juego>
+        <codigo>TW3</codigo>
+        <titulo>The Witcher 3: Wild Hunt</titulo>
+        <precio>39.99</precio>
+        <fecha_lanzamiento>2015-05-19</fecha_lanzamiento>
+        <categoria_id>1</categoria_id>
+    </juego>
+    <juego>
+        <codigo>ELD</codigo>
+        <titulo>Elden Ring</titulo>
+        <precio>59.99</precio>
+        <fecha_lanzamiento>2022-02-25</fecha_lanzamiento>
+        <categoria_id>1</categoria_id>
+    </juego>
+    <juego>
+        <codigo>CPK</codigo>
+        <titulo>Cyberpunk 2077</titulo>
+        <precio>49.99</precio>
+        <fecha_lanzamiento>2020-12-10</fecha_lanzamiento>
+        <categoria_id>1</categoria_id>
+    </juego>
+    <juego>
+        <codigo>BG3</codigo>
+        <titulo>Baldurs Gate 3</titulo>
+        <precio>59.99</precio>
+        <fecha_lanzamiento>2023-08-03</fecha_lanzamiento>
+        <categoria_id>1</categoria_id>
+    </juego>
+    <juego>
+        <codigo>AOE</codigo>
+        <titulo>Age of Empires IV</titulo>
+        <precio>39.99</precio>
+        <fecha_lanzamiento>2021-10-28</fecha_lanzamiento>
+        <categoria_id>2</categoria_id>
+    </juego>
+    <juego>
+        <codigo>CIV</codigo>
+        <titulo>Sid Meiers Civilization VI</titulo>
+        <precio>29.99</precio>
+        <fecha_lanzamiento>2016-10-21</fecha_lanzamiento>
+        <categoria_id>2</categoria_id>
+    </juego>
+    <juego>
+        <codigo>SC2</codigo>
+        <titulo>StarCraft II: Legacy of the Void</titulo>
+        <precio>19.99</precio>
+        <fecha_lanzamiento>2015-11-10</fecha_lanzamiento>
+        <categoria_id>2</categoria_id>
+    </juego>
+    <juego>
+        <codigo>HOI</codigo>
+        <titulo>Hearts of Iron IV</titulo>
+        <precio>39.99</precio>
+        <fecha_lanzamiento>2016-06-06</fecha_lanzamiento>
+        <categoria_id>2</categoria_id>
+    </juego>
+    <juego>
+        <codigo>DME</codigo>
+        <titulo>Doom Eternal</titulo>
+        <precio>29.99</precio>
+        <fecha_lanzamiento>2020-03-20</fecha_lanzamiento>
+        <categoria_id>3</categoria_id>
+    </juego>
+    <juego>
+        <codigo>GOW</codigo>
+        <titulo>God of War Ragnarok</titulo>
+        <precio>59.99</precio>
+        <fecha_lanzamiento>2022-11-09</fecha_lanzamiento>
+        <categoria_id>3</categoria_id>
+    </juego>
+    <juego>
+        <codigo>RDR</codigo>
+        <titulo>Red Dead Redemption 2</titulo>
+        <precio>49.99</precio>
+        <fecha_lanzamiento>2018-10-26</fecha_lanzamiento>
+        <categoria_id>3</categoria_id>
+    </juego>
+    <juego>
+        <codigo>SEK</codigo>
+        <titulo>Sekiro: Shadows Die Twice</titulo>
+        <precio>39.99</precio>
+        <fecha_lanzamiento>2019-03-22</fecha_lanzamiento>
+        <categoria_id>3</categoria_id>
+    </juego>
+    <juego>
+        <codigo>FC2</codigo>
+        <titulo>EA Sports FC 24</titulo>
+        <precio>69.99</precio>
+        <fecha_lanzamiento>2023-09-29</fecha_lanzamiento>
+        <categoria_id>4</categoria_id>
+    </juego>
+    <juego>
+        <codigo>NBA</codigo>
+        <titulo>NBA 2K24</titulo>
+        <precio>59.99</precio>
+        <fecha_lanzamiento>2023-09-08</fecha_lanzamiento>
+        <categoria_id>4</categoria_id>
+    </juego>
+    <juego>
+        <codigo>F12</codigo>
+        <titulo>F1 23</titulo>
+        <precio>49.99</precio>
+        <fecha_lanzamiento>2023-06-16</fecha_lanzamiento>
+        <categoria_id>4</categoria_id>
+    </juego>
+    <juego>
+        <codigo>RLG</codigo>
+        <titulo>Rocket League</titulo>
+        <precio>0.00</precio>
+        <fecha_lanzamiento>2015-07-07</fecha_lanzamiento>
+        <categoria_id>4</categoria_id>
+    </juego>
+    <juego>
+        <codigo>SKY</codigo>
+        <titulo>The Elder Scrolls V: Skyrim</titulo>
+        <precio>19.99</precio>
+        <fecha_lanzamiento>2011-11-11</fecha_lanzamiento>
+        <categoria_id>1</categoria_id>
+    </juego>
+    <juego>
+        <codigo>XCO</codigo>
+        <titulo>XCOM 2</titulo>
+        <precio>24.99</precio>
+        <fecha_lanzamiento>2016-02-05</fecha_lanzamiento>
+        <categoria_id>2</categoria_id>
+    </juego>
+    <juego>
+        <codigo>DMC</codigo>
+        <titulo>Devil May Cry 5</titulo>
+        <precio>29.99</precio>
+        <fecha_lanzamiento>2019-03-08</fecha_lanzamiento>
+        <categoria_id>3</categoria_id>
+    </juego>
+    <juego>
+        <codigo>PGA</codigo>
+        <titulo>PGA Tour 2K23</titulo>
+        <precio>34.99</precio>
+        <fecha_lanzamiento>2022-10-14</fecha_lanzamiento>
+        <categoria_id>4</categoria_id>
+    </juego>
+</juegos>
