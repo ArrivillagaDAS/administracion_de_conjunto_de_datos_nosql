@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "RPG",
+    "nombre": "Juegos de Rol",
+    "descripcion": "Aventuras inmersivas centrándose en la narrativa y la evolución de los personajes."
+  },
+  {
+    "codigo": "EST",
+    "nombre": "Estrategia",
+    "descripcion": "Títulos enfocados en el pensamiento táctico, planificación y gestión de recursos."
+  },
+  {
+    "codigo": "ACC",
+    "nombre": "Acción",
+    "descripcion": "Juegos dinámicos con combate en tiempo real, plataformas y pruebas de reflejo."
+  },
+  {
+    "codigo": "DEP",
+    "nombre": "Deportes",
+    "descripcion": "Simulaciones de disciplinas deportivas individuales y de equipo."
+  }
+]
